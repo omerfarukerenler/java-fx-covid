@@ -1,0 +1,28 @@
+<records>
+    <record>
+        <dateRep>26/05/2020</dateRep>
+        <day>26</day>
+        <month>5</month>
+        <year>2020</year>
+        <cases>591</cases>
+        <deaths>1</deaths>
+        <countriesAndTerritories>Afghanistan</countriesAndTerritories>
+        <geoId>AF</geoId>
+        <countryterritoryCode>AFG</countryterritoryCode>
+        <popData2018>37172386</popData2018>
+        <continentExp>Asia</continentExp>
+    </record>
+    <record>
+        <dateRep>25/05/2020</dateRep>
+        <day>25</day>
+        <month>5</month>
+        <year>2020</year>
+        <cases>584</cases>
+        <deaths>2</deaths>
+        <countriesAndTerritories>Afghanistan</countriesAndTerritories>
+        <geoId>AF</geoId>
+        <countryterritoryCode>AFG</countryterritoryCode>
+        <popData2018>37172386</popData2018>
+        <continentExp>Asia</continentExp>
+    </record>
+</records>
